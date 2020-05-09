@@ -1,0 +1,14 @@
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\bin\Debug\netcoreapp2.2\WebServices.deps.json
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\bin\Debug\netcoreapp2.2\WebServices.runtimeconfig.json
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\bin\Debug\netcoreapp2.2\WebServices.runtimeconfig.dev.json
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\bin\Debug\netcoreapp2.2\WebServices.dll
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\bin\Debug\netcoreapp2.2\WebServices.pdb
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.csprojAssemblyReference.cache
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.csproj.CoreCompileInputs.cache
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.RazorAssemblyInfo.cache
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.RazorAssemblyInfo.cs
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.AssemblyInfoInputs.cache
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.AssemblyInfo.cs
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.RazorTargetAssemblyInfo.cache
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.dll
+C:\Workspace\D_Drive\MicroservicesTraining\Examples\WebServices\WebServices\obj\Debug\netcoreapp2.2\WebServices.pdb
